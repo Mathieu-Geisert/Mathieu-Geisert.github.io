@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>https://Mathieu-Geisert.github.io/publication/learning/</loc>
+      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Mathieu-Geisert.github.io/publication/memo/</loc>
+      <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Mathieu-Geisert.github.io/publication/loco3d/</loc>
+      <lastmod>2017-07-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Mathieu-Geisert.github.io/publication/hddp/</loc>
+      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://Mathieu-Geisert.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -50,7 +86,16 @@
     
     <url>
     
-      <loc>https://Mathieu-Geisert.github.io/project/deep-learning/</loc>
+      <loc>https://Mathieu-Geisert.github.io/publication/drone/</loc>
+      <lastmod>2016-05-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Mathieu-Geisert.github.io/project/loco3d/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +104,7 @@
     
     <url>
     
-      <loc>https://Mathieu-Geisert.github.io/project/example-external-project/</loc>
+      <loc>https://Mathieu-Geisert.github.io/project/teleoperation/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,8 +158,8 @@
     
     <url>
     
-      <loc>https://Mathieu-Geisert.github.io/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <loc>https://Mathieu-Geisert.github.io/publication/airbus/</loc>
+      <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -131,35 +176,6 @@
     
     <url>
     
-      <loc>https://Mathieu-Geisert.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Mathieu-Geisert.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Mathieu-Geisert.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://Mathieu-Geisert.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -169,18 +185,8 @@
     
     <url>
     
-      <loc>https://Mathieu-Geisert.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Mathieu-Geisert.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://Mathieu-Geisert.github.io/tags/hierarchy-of-tasks/</loc>
+      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,8 +205,28 @@
     
     <url>
     
+      <loc>https://Mathieu-Geisert.github.io/tags/humanoid-robotics/</loc>
+      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://Mathieu-Geisert.github.io/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://Mathieu-Geisert.github.io/tags/machine-learning/</loc>
+      <lastmod>2017-12-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -219,6 +245,16 @@
     
     <url>
     
+      <loc>https://Mathieu-Geisert.github.io/tags/optimal-control/</loc>
+      <lastmod>2017-09-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://Mathieu-Geisert.github.io/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -229,8 +265,8 @@
     
     <url>
     
-      <loc>https://Mathieu-Geisert.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+      <loc>https://Mathieu-Geisert.github.io/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -239,8 +275,8 @@
     
     <url>
     
-      <loc>https://Mathieu-Geisert.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <loc>https://Mathieu-Geisert.github.io/tags/uavs/</loc>
+      <lastmod>2017-09-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
